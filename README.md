@@ -19,5 +19,5 @@ This project focuses on the visual analytics layer of the **Hydro-Sense** protoc
 ![Hydro-Sense Dashboard](./dashboard_preview.png)
 
 ## 📁 How to View
-* **[Download the PDF Report](./Hyper-Local Water Logistics & Audit Protocol.pdf)** for a high-resolution look at the analytics.
+* **[Download the PDF Report](./HydroSense_Analytics_Report.pdf)** for a high-resolution look at the analytics.
 * **Data Source:** Based on real-world IoT sensor leakage datasets from Kaggle.
